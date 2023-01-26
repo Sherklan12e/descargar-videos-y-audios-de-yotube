@@ -1,4 +1,4 @@
- descargar-videos-y-audios-de-yotube
+ACLARO QUE LO QUE DESCARGUES SE GUARDARA EN EL ARCHIVO DONDE TE ENCUENTRES descargar-videos-y-audios-de-yotube
 DEBE DESCARGA ALGUNAS LIBRERIAS DE PIP
 descarga python 
 en termux
