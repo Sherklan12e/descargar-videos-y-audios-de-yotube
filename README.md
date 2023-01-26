@@ -11,3 +11,17 @@ DEBE DESCARGA ALGUNAS LIBRERIAS DE PIP
 #python todo.py 
 #dentro de la carpeta donde lo clonaste 
 #facilito 
+
+
+
+
+
+
+
+
+
+
+
+
+
+asd
